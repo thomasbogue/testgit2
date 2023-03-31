@@ -5,4 +5,4 @@ def print_name():
 
 def ask_name():
     username = input("whats your name?")
-    print username
+    print(username)
